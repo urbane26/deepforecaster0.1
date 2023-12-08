@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    schakraborty:
+      email: chakraborty.saikat@gmail.com
+      name: Saikat Chakraborty
+      password: '$2b$12$Yj7ufsQhm4GrCdjgOEvzRuoCCYTk8Dk.ZBgoTjlI4U6s3q9Z0NHG6' # To be replaced with hashed password
+    guestuser:
+      email: guser@gmail.com
+      name: guestuser
+      password: '$2b$12$BZEsILG5QG8Wgue1lgOhA.CbNOqGmO/oy2yhMRTaiKkEaw5J2o90e' # To be replaced with hashed password
+cookie:
+  expiry_days: 0
+  key: 'signature' # Must be string
+  name: aiforecaster
+preauthorized:
+  emails:
+  - urbane26@yahoo.com
